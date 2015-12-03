@@ -1,0 +1,19 @@
+article {
+}
+
+.tooltip {
+    position: relative;
+
+    color: white;
+    background: black;
+
+}
+.tooltipText {
+    position: absolute;
+    bottom: -2em;
+    left: 0;
+
+    color: white;
+    background: black;
+    display: inline;
+}
