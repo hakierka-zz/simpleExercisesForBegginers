@@ -1,0 +1,11 @@
+li {
+    background: rgb(0, 228, 36);
+}
+
+li:first-child {
+    background: rgb(0,24,323);
+}
+
+li:last-child {
+    background: rgb(232,23,132);
+}
