@@ -1,0 +1,21 @@
+
+.akordeon li {
+    list-style: none;
+    width: 900px;
+    padding: 0 0 0 10px;
+
+}
+
+.akordeon h1 {
+    padding:0;
+    margin: 0;
+    background: black;
+    color: white;
+}
+
+.akordeon p {
+    padding: 0;
+    margin: 0;
+    display:none;
+    border: 1px solid black;
+}
